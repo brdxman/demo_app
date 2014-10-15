@@ -13,7 +13,7 @@
 
 # Ignore all logfiles and tempfiles.
 /log/*.log
-/tmp# my Ignore
+/tmp	# my Ignore
 database.yml
 doc/
 *.swp
